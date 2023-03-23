@@ -1,18 +1,22 @@
-## Getting Started
+ Conversor de Moneda
+Proyecto participante de Alura ONE Challenge, donde se desarrolla un conversor de moneda y unidades a decisión del desarrollador.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Indice
+* [Descripción del proyecto](#descripcion-del-proyecto)
+* [Conversores](#conversores)
+* [Tecnologias de desarrollo](#tecnologias-de-desarrollo)
+* [Desarrollador](#desarollador)
 
-## Folder Structure
+## Descripcion del proyecto
+Conversor de unidades desarrollado en Java con la librería **swing**, en el que se encontraran 2 tipos de conversores, siendo estos ***conversor de moneda***, ***conversor de temperatura*** y ***.
 
-The workspace contains two folders by default, where:
+## Conversores
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+En el proyecto se encuentran los siguientes conversores con sus respectivas unidades de conversión:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
+|           Conversor     |Unidades                                                   |
+|----------------|-------------------------------|
+|Conversor de moneda |`Dolares (USD), Euros (EUR), Libras esterlinas (GBP), Yenes (JPY), Pesos Colombianos (COP `                        |
+|Conversor de temperatura          |`Fahrenheit, Celcius. Kelvin`            |           
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
