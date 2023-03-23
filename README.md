@@ -9,7 +9,8 @@ Proyecto participante de Alura ONE Challenge, donde se desarrolla un conversor d
 
 ## Descripcion del proyecto
 Conversor de unidades desarrollado en Java con la librería **swing**, en el que se encontraran 2 tipos de conversores, siendo estos ***conversor de moneda***, ***conversor de temperatura*** y ***.
-![Tutorial de mi proyecto](https://youtu.be/SbISVoACio4)
+[![Descripción del video](https://i9.ytimg.com/vi_webp/SbISVoACio4/mq1.webp?sqp=CJCU76AG-oaymwEmCMACELQB8quKqQMa8AEB-AH6CYAC0AWKAgwIABABGGUgYShNMA8=&rs=AOn4CLAazPDcgLZJgmWIfLasK1Tzi39wHQ)](https://youtu.be/SbISVoACio4)
+
 
 ## Conversores
 
