@@ -27,7 +27,7 @@ En el proyecto se encuentran los siguientes conversores con sus respectivas unid
 ## Tecnologia del desarrollo
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
-## Tecnologia del desarrollo
+## Desarrollador
 Desarollado por Jose Sadid Moreno
 
 Mi repositorio de GitHub está disponible [aquí](https://github.com/sadid8).
