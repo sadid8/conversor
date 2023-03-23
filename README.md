@@ -22,4 +22,13 @@ En el proyecto se encuentran los siguientes conversores con sus respectivas unid
 |Conversor de moneda |`Dolares (USD), Euros (EUR), Libras esterlinas (GBP), Yenes (JPY), Pesos Colombianos (COP `                        |
 |Conversor de temperatura          |`Fahrenheit, Celcius. Kelvin`            |           
 
+
+
+## Tecnologia del desarrollo
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## Tecnologia del desarrollo
+Desarollado por Jose Sadid Moreno
+
+Mi repositorio de GitHub está disponible [aquí](https://github.com/sadid8).
+
